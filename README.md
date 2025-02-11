@@ -1,1 +1,1 @@
-# EDA-with-Satyajit-Pattnaik
+# Customer-Churn-Analysis
